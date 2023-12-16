@@ -1,2 +1,2 @@
 # desafiosdio
- Repositório criado para entrega de desafios para a plataforma dio.
+Projeto de aprendizado referente a introdução ao HTML e CSS
